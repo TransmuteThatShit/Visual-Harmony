@@ -1,0 +1,20 @@
+{
+  "segments": [
+    {
+      "start": 3.52,
+      "end": 5.12,
+      "text": "our light was born in the shadows",
+      "words": [
+        { "word": "our", "start": 3.52, "end": 3.72 },
+        { "word": "light", "start": 3.73, "end": 4.02 },
+        { "word": "was", "start": 4.03, "end": 4.22 },
+        { "word": "born", "start": 4.23, "end": 4.52 },
+        { "word": "in", "start": 4.53, "end": 4.82 },
+        { "word": "the", "start": 4.83, "end": 4.92 },
+        { "word": "shadows", "start": 4.93, "end": 5.12 }
+      ],
+      "confidence": 0.97
+    }
+    // ... more segments ...
+  ]
+}

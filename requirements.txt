@@ -1,0 +1,8 @@
+whisper
+numpy
+pandas
+pydub
+Pillow
+librosa
+soundfile
+pytest

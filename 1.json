@@ -1,0 +1,54 @@
+{
+  "segments": [
+    {
+      "start": 3.52,
+      "end": 5.12,
+      "text": "our light was born in the shadows",
+      "words": [
+        { "word": "our", "start": 3.52, "end": 3.72 },
+        { "word": "light", "start": 3.73, "end": 4.02 },
+        { "word": "was", "start": 4.03, "end": 4.22 },
+        { "word": "born", "start": 4.23, "end": 4.52 },
+        { "word": "in", "start": 4.53, "end": 4.82 },
+        { "word": "the", "start": 4.83, "end": 4.92 },
+        { "word": "shadows", "start": 4.93, "end": 5.12 }
+      ],
+      "confidence": 0.97
+    },
+    {
+      "start": 5.15,
+      "end": 7.61,
+      "text": "only after the current shaped the walls of my life",
+      "words": [
+        { "word": "only", "start": 5.15, "end": 5.34 },
+        { "word": "after", "start": 5.35, "end": 5.61 },
+        { "word": "the", "start": 5.62, "end": 5.69 },
+        { "word": "current", "start": 5.70, "end": 5.99 },
+        { "word": "shaped", "start": 6.00, "end": 6.29 },
+        { "word": "the", "start": 6.30, "end": 6.39 },
+        { "word": "walls", "start": 6.40, "end": 6.69 },
+        { "word": "of", "start": 6.70, "end": 6.79 },
+        { "word": "my", "start": 6.80, "end": 6.99 },
+        { "word": "life", "start": 7.00, "end": 7.61 }
+      ],
+      "confidence": 0.93
+    },
+    {
+      "start": 7.70,
+      "end": 9.31,
+      "text": "could the light finally reach my day by day",
+      "words": [
+        { "word": "could", "start": 7.70, "end": 7.89 },
+        { "word": "the", "start": 7.90, "end": 8.02 },
+        { "word": "light", "start": 8.03, "end": 8.22 },
+        { "word": "finally", "start": 8.23, "end": 8.52 },
+        { "word": "reach", "start": 8.53, "end": 8.82 },
+        { "word": "my", "start": 8.83, "end": 8.99 },
+        { "word": "day", "start": 9.00, "end": 9.15 },
+        { "word": "by", "start": 9.16, "end": 9.24 },
+        { "word": "day", "start": 9.25, "end": 9.31 }
+      ],
+      "confidence": 0.95
+    }
+  ]
+}
